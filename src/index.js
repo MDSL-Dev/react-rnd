@@ -1,5 +1,5 @@
 import React, { Component, PropTypes } from 'react';
-import Draggable from '@bokuweb/react-draggable-custom';
+import Draggable from 'react-draggable';
 import Resizable from 'react-resizable-box';
 
 const boxStyle = {
